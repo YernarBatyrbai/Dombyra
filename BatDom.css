@@ -1,0 +1,40 @@
+h1, h2, h3, h4, h5, br, td, th, li, div, label{
+    color:rgb(216, 128, 46);
+}
+
+body{
+    background-color: rgb(238, 228, 153);
+}
+
+
+
+.color{
+    color:rgb(216, 128, 46);
+  }
+
+.header{
+    border-bottom: 5px solid rgb(255, 153, 0);
+}
+
+
+/*class*/
+.card{
+    padding: 10px;
+    background-color: rgb(187, 187, 187);
+    margin-bottom: 5px;
+ }
+
+ .html{
+    background: rgb(255, 187, 1);
+    color: rgb(255, 255, 255)
+ }
+
+.hoho{
+    background: rgb(255, 187, 1);
+    color: rgb(255, 255, 255)
+ }
+
+ .koko{
+    background: rgb(255, 187, 1);
+    color: rgb(255, 255, 255)
+ }
